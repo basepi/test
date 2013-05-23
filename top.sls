@@ -4,4 +4,3 @@ base:
 dev/network:
   '*':
     - usertest
-    - something
